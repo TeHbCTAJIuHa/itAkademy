@@ -1,1 +1,4 @@
-﻿/*.pro.user
+﻿#must begin from second line
+*.user
+*.pro.user.*
+*-build-*

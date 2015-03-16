@@ -1,1 +1,2 @@
-﻿/build-*
+﻿#must begin from second line
+/build-*
